@@ -1,0 +1,19 @@
+h1 {
+    background-color: blue;
+    color: white;
+}
+
+div {
+    background-color: burlywood;
+    color: red;
+}
+
+h2 {
+    background-color: green;
+    color: white;
+}
+
+#principal {
+    background-color: yellow;
+    color: black;
+}
